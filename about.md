@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:#353D34;">
 
 <h1>This is a heading about</h1>
 <p>This is a paragraph.</p>
