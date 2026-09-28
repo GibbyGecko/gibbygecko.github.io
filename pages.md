@@ -1,4 +1,4 @@
 .
 ├── about.md    # => http://www.liambrennan.space/about.html
-├── index.html    # => http://www.liambrennan.space/
-└── contact.html  # => http://www.liambrennan.space/contact.html
+├── index.md    # => http://www.liambrennan.space/
+└── contact.md  # => http://www.liambrennan.space/contact.html
